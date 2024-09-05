@@ -33,4 +33,4 @@
 ---
  ### 🚀 Projects
 
-- **[Wikipedia Search API Web Application](https://github.com/luyizhang8/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
+- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
