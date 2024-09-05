@@ -34,3 +34,4 @@
  ### 🚀 Projects
 
 - **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
+- **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
