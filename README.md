@@ -25,15 +25,14 @@
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
+ ### 🚀 Projects
+- **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
+- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
+- **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
 
+---
 ### 📫 Contact Me
 
 - LinkedIn: [Luyi Zhang](linkedin.com/in/luyizhang0818)
 - College email: luyiz@seas.upenn.edu
 - Personal email: zhangluyi0818@gmail.com
-
----
- ### 🚀 Projects
-- **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
-- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
-- **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
