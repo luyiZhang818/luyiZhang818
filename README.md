@@ -26,9 +26,10 @@
 
 ---
  ### 🚀 Projects
-- **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
-- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
+- **[Weekend Weather Watch](https://github.com/luyiZhang818/Weekend-Weather-Watch)**_(ongoing)_: Microservice-based application built with Go, RabbitMQ, Redis, and Twilio, delivering personalized, real-time weather updates and SMS recommendations to help users plan their weekends effectively
+- **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  Cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
 - **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
+- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
 
 ---
 ### 📫 Contact Me
