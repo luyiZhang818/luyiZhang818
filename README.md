@@ -26,6 +26,7 @@
 
 ---
  ### 🚀 Projects
+ - **[Menu Bar Stopwatch](https://github.com/luyiZhang818/MenuBarStopwatch-Public)**: Lightweight macOS utility built with Swift and SwiftUI, featuring Siri Shortcuts integration and keyboard controls for seamless time tracking and workflow automation
 - **[Weekend Weather Watch](https://github.com/luyiZhang818/Weekend-Weather-Watch)**_(ongoing)_: Microservice-based application built with Go, RabbitMQ, Redis, and Twilio, delivering personalized, real-time weather updates and SMS recommendations to help users plan their weekends effectively
 - **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  Cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
 - **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
