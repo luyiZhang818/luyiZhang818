@@ -1,6 +1,5 @@
 ### 👋 Hi, I'm Luyi :)
 🌱 I'm a CS student @ Penn MCIT (Class of 2026) \
-👨‍💻 Courses taken: Intro to Software Development (Java), Mathematical Foundations of CS, Intro to Computer Systems (C) \
 🔭 I’m in the process of learning full-stack software development \
 ⚡ Fun fact - my cat looks like Garfield 
 
@@ -30,8 +29,6 @@
 - **[Nara – Chrome Extension](https://github.com/luyiZhang818/Nara-Chrome-Extension)**: Chrome extension built with HTML, CSS, JavaScript and the Chrome Extension API, delivering daily curated feel‑good tasks and a reward system to boost morning positivity; now available on the Chrome Web Store  
 - **[Weekend Weather Watch](https://github.com/luyiZhang818/Weekend-Weather-Watch)**_(ongoing)_: Microservice-based application built with Go, RabbitMQ, Redis, and Twilio, delivering personalized, real-time weather updates and SMS recommendations to help users plan their weekends effectively
 - **[MemoDrop](https://github.com/luyiZhang818/MemoDrop)**  Cloud-based, full-stack web application leveraging Flask, MongoDB, AWS S3, and Nginx, allowing users to securely upload, store, and retrieve text notes and files via a responsive, mobile-friendly interface
-- **[AWS-Based Geolocation Web Application](https://github.com/luyiZhang818/TwoPointOh)**  Serverless app using AWS Lambda and API Gateway to calculate geographic distances in real-time
-- **[Wikipedia Search API Web Application](https://github.com/luyiZhang818/Wiki-Web-App)**  Web app using the Wikipedia API to search and display articles dynamically.
 
 ---
 ### 📫 Contact Me
